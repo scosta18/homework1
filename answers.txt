@@ -1,0 +1,4 @@
+What is a remote repository?
+Answer: A remote repository is where a person can access their work from anywhere.
+Basically, the person can edit their projects such as in Git Hub. Anyone can upload their project from any part
+of the world and have their groupmate have the updated version of their work. This a remote repository.
